@@ -1,6 +1,6 @@
 
 #include <stdio.h>
 main() {
-printf("�ӭ�\n");
+printf("邱守晏");
 }
 
